@@ -1,4 +1,3 @@
 # DSA-Lab1
-Adding line to...
-simulate merge conflict
-
+This is Muhammad Asad
+Adding this line to simulate merge conflict
